@@ -1,3 +1,5 @@
+package Class_1;
+
 public class area {
     public static void main(String[] args) {
         double pi=3.14;

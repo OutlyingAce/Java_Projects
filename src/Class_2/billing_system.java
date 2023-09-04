@@ -1,3 +1,5 @@
+package Class_2;
+
 import java.util.Objects;
 import java.util.Scanner;
 public class billing_system {

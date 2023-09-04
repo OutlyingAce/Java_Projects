@@ -1,3 +1,5 @@
+package Class_2;
+
 import java.util.Scanner;
 public class ResultScanner {
     public static void main(String[] args) {

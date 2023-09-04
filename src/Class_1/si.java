@@ -1,3 +1,5 @@
+package Class_1;
+
 public class si {
     public static void main(String[] args) {
         int principle=1000;

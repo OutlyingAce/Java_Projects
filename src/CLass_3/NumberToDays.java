@@ -1,3 +1,5 @@
+package CLass_3;
+
 import java.util.Scanner;
 public class NumberToDays {
     public static void main(String[] args) {
