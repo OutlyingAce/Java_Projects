@@ -1,2 +1,16 @@
-package Class_5;public class evenodd_ifelse {
+package Class_5;
+
+public class evenodd_ifelse {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 10; i++) {
+            if (i % 2 == 0) {
+                System.out.println(i + " is even.");
+            } else {
+                System.out.println(i + " is odd");
+            }
+        }
+    }
 }
+
+
+
