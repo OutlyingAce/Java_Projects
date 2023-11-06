@@ -15,4 +15,4 @@ public class FizzBuzz_loop {
             }
         }
     }
-}
+}   
