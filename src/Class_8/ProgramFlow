@@ -1,0 +1,19 @@
+1) Create a simple login system.
+    It should include username and password
+    The password should include: length- 8
+                                 must contain- @
+
+- Run a loop in case the user does not meet the conditions (If Else)
+- Ask user for the details to match stored details (.equals)
+- Check if the password has:
+  -8 letters using if .length() >= 8
+  -symbol'@' using .indexOf()
+- If -1 is returned then ask the user to try again
+- If anything other than - 1 is returned then Login successful.
+
+2) Create a simple search in a string.
+-Ask user for string to search into
+-run if else
+-use .contain to check if the string us there or not
+
+3) WAP to count the number of vowels and constant in a string.
